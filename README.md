@@ -4,6 +4,9 @@ Enter DeepQ. A simple GUI option lets the user easily select the number of chess
 
 DeepQ's simple GUI platform lets analysis be done in a matter of clicks, with no complicated programming knowledge necessary. Whether the user is a seasoned tournament professional, casual club player, or computer chess enthusiast, DeepQ has something to offer something to everyone thanks to its stunningly versatile platform. DeepQ can run on Windows, Mac, and Linux platforms, enabling chess researchers all over the world an analysis tool that finally empowers the end user to have complete customization while retaining intuitive user-friendliness.
 
+
+![Screen Shot 2021-03-17 at 2 33 23 AM](https://user-images.githubusercontent.com/70864791/111446123-4f2f9900-86c9-11eb-84fc-d39ca18f3bb8.png)
+
 Welcome to DeepQ.
 
 Cloud CLI Version [Available here](https://colab.research.google.com/drive/1XCLpNMDHCePSyoj8cMw-ecsURRamtmjD?usp=sharing)
